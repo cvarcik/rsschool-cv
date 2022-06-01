@@ -21,3 +21,15 @@ I want to learn something new...*
 ### Skills :
 * Listening when everyone is talking
 *** 
+### Code example :
+his code is not running properly. Try to understand why.
+function multiply(a, b){
+  a * b
+}
+const multiply = (a, b) => a * b
+***
+### work experience :
+* Not yet in programming
+*** 
+### knowledge of English :
+* A1 (i keep learning)
