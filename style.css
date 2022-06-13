@@ -1,0 +1,14 @@
+body {
+    background: rgb(88, 128, 119)
+
+}
+h1,
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.container {
+    text-align: center;
+}
